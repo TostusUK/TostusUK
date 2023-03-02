@@ -62,5 +62,5 @@
 [![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/)
 [![npm](https://img.shields.io/badge/-npm-141414?style=flat&logo=npm)](https://www.npmjs.com/)
 [![Sublime](https://img.shields.io/badge/-Sublime-141414?style=flat&logo=sublimetext)](https://www.sublimetext.com/)
-[![Discord](https://img.shields.io/badge/-Discord-141414?style=flat&logo=discord&logoColor=white)](https://discord.com)
 [![VMWare](https://img.shields.io/badge/-VMware-141414?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/es.html)
+[![Discord](https://img.shields.io/badge/-Discord-141414?style=flat&logo=discord&logoColor=white)](https://discord.com)
