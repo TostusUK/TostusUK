@@ -55,7 +55,7 @@
 [![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)](https://nginx.org/)
 [![Apache](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)](https://apache.org/)
 [![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)](https://www.gnu.org/software/bash/)
-[![Batch](https://img.shields.io/badge/-Windows%20Terminal-141414?style=flat&logo=windows%20terminal)](https://azure.microsoft.com/es-es/products/batch)
+[![Batch](https://img.shields.io/badge/-Batch-141414?style=flat&logo=windows%20terminal)](https://azure.microsoft.com/es-es/products/batch)
 [![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)](https://www.linux.org/)
 [![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows/)
 [![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)](https://github.com)
