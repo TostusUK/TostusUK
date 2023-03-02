@@ -11,12 +11,12 @@
 
 ### Languages that I use
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
-[![LUA](https://img.shields.io/badge/-lua-141414?style=flat&logo=lua)](https://www.lua.org/)
+[![LUA](https://img.shields.io/badge/-LUA-141414?style=flat&logo=lua)](https://www.lua.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)](https://www.javascript.com/)
 [![PHP](https://img.shields.io/badge/-PHP-141414?style=flat&logo=PHP)](https://www.php.net/)
 ![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=SQL)
+![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=mysql&logoColor=FFFFFF)
 
 ### Languages that I am learning
 [![CSharp](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
