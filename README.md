@@ -20,7 +20,7 @@
 
 ### Languages that I am learning
 [![CSharp](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Swift](https://img.shields.io/badge/-swift-141414?style=flat&logo=swift)](https://developer.apple.com/documentation/swift/)
+[![Swift](https://img.shields.io/badge/-Swift-141414?style=flat&logo=swift)](https://developer.apple.com/documentation/swift/)
 
 ### Linux Distros
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
