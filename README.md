@@ -20,6 +20,7 @@
 
 ### Languages that I am learning
 [![CSharp](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Swift](https://img.shields.io/badge/-swift-141414?style=flat&logo=swift)](https://developer.apple.com/documentation/swift/)
 
 ### Linux Distros
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
@@ -37,6 +38,9 @@
 [![DiscordPy](https://img.shields.io/badge/-DiscordPY-141414?style=flat&logo=Python)](https://discord.com)
 [![FiveM](https://img.shields.io/badge/-FiveM-141414?style=flat&logo=FiveM)](https://github.com/citizenfx/fivem)
 [![Oxide](https://img.shields.io/badge/-Oxide-141414?style=flat&logo=Oxygen)](https://github.com/OxideMod)
+
+### Frameworks that I am learning
+[![NodeJS](https://img.shields.io/badge/-NodeJS-141414?style=flat&logo=Node.js)](https://nodejs.org/en/docs/)
 
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
