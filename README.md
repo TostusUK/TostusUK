@@ -10,6 +10,7 @@
 ## Portfolio
 
 ### Languages that I use
+[![Swift](https://img.shields.io/badge/-Swift-141414?style=flat&logo=swift)](https://developer.apple.com/documentation/swift/)
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 [![LUA](https://img.shields.io/badge/-LUA-141414?style=flat&logo=lua)](https://www.lua.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)](https://www.javascript.com/)
@@ -20,7 +21,7 @@
 
 ### Languages that I am learning
 [![CSharp](https://img.shields.io/badge/-C%23-141414?style=flat&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Swift](https://img.shields.io/badge/-Swift-141414?style=flat&logo=swift)](https://developer.apple.com/documentation/swift/)
+[![Dart](https://img.shields.io/badge/-Dart-141414?style=flat&logo=dart)]([https://docs.microsoft.com/en-us/dotnet/csharp/](https://dart.dev/))
 
 ### Linux Distros
 [![Debian](https://img.shields.io/badge/-Debian-141414?style=flat&logo=debian)](https://www.debian.org/)
@@ -41,6 +42,7 @@
 
 ### Frameworks that I am learning
 [![NodeJS](https://img.shields.io/badge/-NodeJS-141414?style=flat&logo=Node.js)](https://nodejs.org/en/docs/)
+[![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-141414?style=flat&logo=Flutter)](https://flutter.dev/)
 
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/)
